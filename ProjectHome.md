@@ -1,0 +1,1 @@
+JavaScript compression in combination with binary-to-text encoding. jSEND achieves significant, lossless information reduction for data transfers - supporting all kinds of textual data: XML, stringified JSON Objects, (X)HTML, plain text..
